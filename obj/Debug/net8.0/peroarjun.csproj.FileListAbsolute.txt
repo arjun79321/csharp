@@ -1,0 +1,14 @@
+/Users/sethiya/Desktop/peroarjun/bin/Debug/net8.0/peroarjun
+/Users/sethiya/Desktop/peroarjun/bin/Debug/net8.0/peroarjun.deps.json
+/Users/sethiya/Desktop/peroarjun/bin/Debug/net8.0/peroarjun.runtimeconfig.json
+/Users/sethiya/Desktop/peroarjun/bin/Debug/net8.0/peroarjun.dll
+/Users/sethiya/Desktop/peroarjun/bin/Debug/net8.0/peroarjun.pdb
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.AssemblyInfoInputs.cache
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.AssemblyInfo.cs
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.csproj.CoreCompileInputs.cache
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.dll
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/refint/peroarjun.dll
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.pdb
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/peroarjun.genruntimeconfig.cache
+/Users/sethiya/Desktop/peroarjun/obj/Debug/net8.0/ref/peroarjun.dll
